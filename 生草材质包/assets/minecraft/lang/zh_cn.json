@@ -29,7 +29,6 @@
   "menu.online": "付费运动",
   "selectWorld.create": "开始生草",
    "menu.generatingLevel": "生草中",
-  "deathScreen.title": "WASTED",
   "advancements.story.lava_bucket.title": "老铁暴怒",
   "item.minecraft.bucket": "贴吧老铁",
   "item.minecraft.water_bucket": "大水比",
@@ -201,5 +200,15 @@
   "subtitles.block.beacon.activate": "和电站：激活",
   "subtitles.block.beacon.ambient": "和电站：嗡嗡作响",
   "subtitles.block.beacon.deactivate": "和电站：失效",
-  "subtitles.block.beacon.power_select": "和电站：选择效果"
+  "subtitles.block.beacon.power_select": "和电站：选择效果",
+  "item.minecraft.painting": "厕纸",
+  "block.minecraft.dark_oak_trapdoor": "巧克力",
+  "item.minecraft.spyglass": "望远烬",
+  "block.minecraft.lodestone": "吸铁石",
+  "advancements.nether.use_lodestone.title": "你这秤有问题啊",
+  "block.minecraft.melon": "生瓜蛋子",
+  "block.minecraft.mossy_cobblestone_stairs": "生草石阶梯",
+  "block.minecraft.mossy_cobblestone_slab": "生草石台阶",
+  "block.minecraft.mossy_cobblestone": "生草石",
+  "deathScreen.title": "WASTED"
 }
