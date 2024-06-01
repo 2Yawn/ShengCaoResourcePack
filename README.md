@@ -8,4 +8,6 @@
 
 只有Github上会有这个README.md的（目前来看！）更多咨询还是在readme.txt中展示。所以别忘了去看看！
 
+另外，基岩版的[链接在这里](link.placeholder)！  （截至目前只是占位符）
+
 (至于LICENSE因为本来二创的版权就很模糊所以就不乱搞了
