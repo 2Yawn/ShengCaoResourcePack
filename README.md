@@ -1,6 +1,6 @@
 ### This project is in Chinese only.
 
-### 本页面仅限Java版的发布！基岩版的[链接在这里](link.placeholder)（目前暂无，不过有开发计划）
+### 本页面仅限Java版的发布！基岩版的[链接在这里](link.placeholder)（目前暂无，不过有开发计划）（推荐使用Java版）
 
 这里是生草材质包的Github页面！目前的想法是在视频置顶评论里面放github，JE网盘以及基岩版网盘三处的链接。
 
