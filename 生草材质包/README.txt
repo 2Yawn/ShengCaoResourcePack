@@ -3,10 +3,11 @@
 ======================================================
 最新材质包下载链接（持续更新）:
 https://github.com/2Yawn/ShengCaoResourcePack/releases
-若无法链接Github则可以去找下方视频链接的置顶评论里有各种网盘链接
+或网盘链接：https://www.lanzouw.com/b0xvf4uqf   密码:4aly 
+若都不生效则可以去找下方视频链接的置顶评论里看看链接是否更新，或者敲我一下
 ======================================================
-生草材质包 v2.0.2.3 by SwiftTheGamer (MCJE国际服ID：Swift_The_Gamer)                         正式版发布时更改这里的版本号
-兼容于 Minecraft Java Edition 1.21.1 
+生草材质包 v2.0.2.3 by SwiftTheGamer (MCJE国际服ID：Swift_The_Gamer) 
+兼容于 Minecraft Java Edition 1.21 
 我的B站：https://space.bilibili.com/509780342
 可以随意使用，当然放一下链接更好，有事的话可以B站私信
 附视频链接：
@@ -119,6 +120,8 @@ BUG9:普通草的材质不生效 v2.2.0.2 fixed
 铁砧 duang
 ======================================================
 意义不明的 Changelog
+v2.2.0.9 24/6/11
+*删除sounds.zip
 v2.2.0.8 24/6/10
 *删除凋零骷髅的备用声音
 v2.2.0.7 24/6/7
