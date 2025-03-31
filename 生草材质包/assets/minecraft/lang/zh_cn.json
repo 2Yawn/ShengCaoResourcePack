@@ -288,8 +288,12 @@
 	"item.minecraft.tipped_arrow.effect.swiftness": "逊杰之箭",
 	"effect.minecraft.speed": "逊杰",
 	
-		"comment1": "以下是v2.2-v3.0新增内容",
-	
+		"comment1": "以下是v2.2-v3.0新增内容",	
+    "block.minecraft.hopper": "拾漏模块",
+    "container.hopper": "拾漏模块",
+    "entity.minecraft.hopper_minecart": "拾漏模块铲车",
+    "item.minecraft.hopper_minecart": "拾漏模块铲车",
+    "stat.minecraft.inspect_hopper": "搜查拾漏模块次数",
 	
 		"comment_test": "以下是刚加入的条目测试区，测试完了之后放回上面相应的位置",
 	
