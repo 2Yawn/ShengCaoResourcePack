@@ -3,7 +3,7 @@
 ======================================================
 最新材质包下载链接（持续更新）:
 https://github.com/2Yawn/ShengCaoResourcePack/releases
-或网盘链接：https://www.lanzouw.com/b0xvf4uqf   密码:4aly 
+或蓝奏网盘链接：https://www.lanzouw.com/b0xvf4uqf   密码:4aly 
 若都不生效则可以去找下方视频链接的置顶评论里看看链接是否更新，或者敲我一下
 ======================================================
 生草材质包 v2.0.2.3 by SwiftTheGamer (MCJE国际服ID：Swift_The_Gamer) 
@@ -47,7 +47,7 @@ Playtest List 以下实装内容尚未实测，可能是特性的重灾区。
 ======================================================
 To do list
 是否要加书的翻译？多考据一下戴佳伟小日记
-看看1.21.5有没有什么格式的变化
+dry grass
 先从译名开始
 看看新东西怎么整活
 ===========最后要做的事情===========
@@ -58,6 +58,7 @@ unused文件夹删了
 把pack.mcmeta的说明修改一下、splash改一下、测试世界的告示牌改一下，还有更新README（看得仔细一些！
 别忘了remove herobrine
 ===========主要============
+*漏斗/画或者其他DJW相关的东西的音效？
 新版本的鸡和蛋！
 *再多看一眼就会爆炸（指末影人
 炼铜  束口袋一袋土块
@@ -112,6 +113,7 @@ BGM哲学remix（太肝？
 忠诚 附魔书 改成金三胖 ----看了Xali's Enchanted Books作为参考,可能需要Optifine或者CIT Resewn等数据包
 也许试试这个？https://modrinth.com/resourcepack/colored-enchantment-books 感觉有机会
 https://mcpedl.com/visualize-enchanted-book/ 基岩版
+给github页面加一个图片？
 ======================================================
 之前考虑过但是否决了的
 变种骷髅老八化（？）（把流髑的皮肤改了？）
@@ -137,6 +139,9 @@ BUG11:customsounds下的门的字幕不起效 v2.3.0.5 fixed
 铁砧 duang
 ======================================================
 意义不明的 Changelog、
+v2.∞ 25/4/1
+*因为一直都卡在v2，所以干脆把版本号改为了更符合现状的（并且水版本号感觉很有趣
+*好吧，实际上是有一点小区别的，也许可以去github上面扒一下历史commit看看？
 v2.4.0.2 25/3/31
 *修改pack.png
 *删除部分临时文件
