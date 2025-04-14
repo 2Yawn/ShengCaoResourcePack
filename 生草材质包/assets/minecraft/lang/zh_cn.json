@@ -31,6 +31,7 @@
 	"menu.multiplayer": "多人运动",
 	"menu.online": "付费运动",
 	"selectWorld.create": "开始生草",
+	"selectWorld.select": "继续生草",
 	"menu.generatingLevel": "生草中",
 	"item.minecraft.bucket": "贴吧老铁",
 	"item.minecraft.water_bucket": "大水比",
@@ -66,6 +67,7 @@
 	"block.minecraft.mossy_stone_brick_stairs": "生草石砖阶梯",
 	"block.minecraft.mossy_stone_bricks": "生草石砖",
 	"block.minecraft.mossy_stone_brick_wall": "生草石砖墙",
+    "block.minecraft.infested_mossy_stone_bricks": "虫蚀生草石砖",
 	"item.minecraft.rabbit_stew": "老八秘制兔肉煲",
 	"item.minecraft.iron_shovel": "戴佳伟",
 	"block.minecraft.sugar_cane": "韭菜",
@@ -231,6 +233,7 @@
 	"block.minecraft.mossy_cobblestone_stairs": "生草石阶梯",
 	"block.minecraft.mossy_cobblestone_slab": "生草石台阶",
 	"block.minecraft.mossy_cobblestone": "生草石",
+    "block.minecraft.mossy_cobblestone_wall": "生草石墙",
 	"block.minecraft.gold_ore": "金金金金金矿石",
 	"block.minecraft.deepslate_gold_ore": "深层金金金金金矿石",
 	"block.minecraft.nether_gold_ore": "下界金金金金金矿石",
@@ -294,6 +297,7 @@
     "entity.minecraft.hopper_minecart": "拾漏模块铲车",
     "item.minecraft.hopper_minecart": "拾漏模块铲车",
     "stat.minecraft.inspect_hopper": "搜查拾漏模块次数",
+    "item.minecraft.name_tag": "mmp",
 	
 		"comment_test": "以下是刚加入的条目测试区，测试完了之后放回上面相应的位置",
 	
